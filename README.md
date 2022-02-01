@@ -1,2 +1,2 @@
 # IneuronMLDLassignment
-This Repository has the all assignment of Ineuron MLDL course
+This Repository has the all assignment from Ineuron MLDL course
